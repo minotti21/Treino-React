@@ -1,0 +1,27 @@
+
+.navbar {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    height: 100%;
+    width: 40%;
+    margin-right: 40px;
+}
+
+.item {
+    font-size: 28px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
